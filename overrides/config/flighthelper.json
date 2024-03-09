@@ -1,0 +1,30 @@
+{
+  "flighthelper.config.pitchfront": {
+    "key": "flighthelper.config.pitchfront",
+    "toolTip": "flighthelper.config.tt.pitchfront",
+    "value": 40.0,
+    "defaultValue": -2.2,
+    "minValue": -90.0,
+    "maxValue": 90.0
+  },
+  "flighthelper.config.autounlock": {
+    "key": "flighthelper.config.autounlock",
+    "toolTip": "flighthelper.config.tt.autounlock",
+    "value": true,
+    "defaultValue": false
+  },
+  "flighthelper.config.pitchup": {
+    "key": "flighthelper.config.pitchup",
+    "toolTip": "flighthelper.config.tt.pitchup",
+    "value": -40.0,
+    "defaultValue": -55.0,
+    "minValue": -90.0,
+    "maxValue": 90.0
+  },
+  "flighthelper.config.snapyaw": {
+    "key": "flighthelper.config.snapyaw",
+    "toolTip": "flighthelper.config.tt.snapyaw",
+    "value": true,
+    "defaultValue": true
+  }
+}

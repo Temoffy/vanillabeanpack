@@ -1,0 +1,150 @@
+{
+  "tooltip_colors": {
+    "regular": 5635925,
+    "treasure": 16733695,
+    "cursed": 16733525
+  },
+  "descriptions_enabled": true,
+  "descriptions": {
+    "minecraft:projectile_protection": [
+      "Increases protection against",
+      "projectiles"
+    ],
+    "minecraft:bane_of_arthropods": [
+      "Increases damage to arthropods",
+      "such as spiders and bees"
+    ],
+    "minecraft:fire_protection": [
+      "Increases protection against",
+      "fire damage and burn time"
+    ],
+    "minecraft:unbreaking": [
+      "Reduces durability loss"
+    ],
+    "minecraft:impaling": [
+      "Increases damage against",
+      "aquatic mobs"
+    ],
+    "minecraft:smite": [
+      "Increases damage against undead",
+      "mobs, such as zombies and skeletons"
+    ],
+    "minecraft:fortune": [
+      "Increases block drops"
+    ],
+    "minecraft:respiration": [
+      "Increases the time that can be spent",
+      "underwater before beginning to drown"
+    ],
+    "minecraft:piercing": [
+      "Fired arrows will pierce",
+      "through targets"
+    ],
+    "minecraft:punch": [
+      "Increases how far mobs are",
+      "knocked back from arrows"
+    ],
+    "minecraft:knockback": [
+      "Increases how far mobs are",
+      "knocked back from attacks"
+    ],
+    "minecraft:lure": [
+      "Decreases time to catch a fish"
+    ],
+    "minecraft:looting": [
+      "Increases mob drops"
+    ],
+    "minecraft:feather_falling": [
+      "Decreases impact of fall damage"
+    ],
+    "minecraft:aqua_affinity": [
+      "Increases underwater mining speed"
+    ],
+    "minecraft:depth_strider": [
+      "Increases underwater movement speed"
+    ],
+    "minecraft:power": [
+      "Increases arrow damage"
+    ],
+    "minecraft:efficiency": [
+      "Increases tool speed"
+    ],
+    "minecraft:protection": [
+      "Increases general protection"
+    ],
+    "minecraft:multishot": [
+      "Fires three arrows whilst",
+      "only consuming one"
+    ],
+    "minecraft:infinity": [
+      "Prevents regular arrows",
+      "from being consumed upon",
+      "being fired"
+    ],
+    "minecraft:soul_speed": [
+      "Increases movement speed on",
+      "soul sand and soul soil"
+    ],
+    "minecraft:binding_curse": [
+      "The armor piece cannot",
+      "be removed once equipped"
+    ],
+    "minecraft:quick_charge": [
+      "Decreases the time for the",
+      "crossbow to load an arrow"
+    ],
+    "minecraft:blast_protection": [
+      "Increases protection against",
+      "explosion damage and knockback"
+    ],
+    "minecraft:vanishing_curse": [
+      "The item vanishes upon death"
+    ],
+    "minecraft:loyalty": [
+      "Returns to the player after",
+      "hitting the ground or target"
+    ],
+    "minecraft:sweeping": [
+      "Increases damage from",
+      "sweeping attacks"
+    ],
+    "minecraft:swift_sneak": [
+      "Increases movement speed",
+      "when sneaking"
+    ],
+    "minecraft:fire_aspect": [
+      "Sets the target ablaze"
+    ],
+    "minecraft:flame": [
+      "Sets the arrow shot ablaze"
+    ],
+    "minecraft:channeling": [
+      "Summons a lightning bolt",
+      "on the target hit"
+    ],
+    "minecraft:sharpness": [
+      "Increases general damage"
+    ],
+    "minecraft:thorns": [
+      "Causes attackers to take damage"
+    ],
+    "minecraft:riptide": [
+      "Launches player using the item",
+      "when in water or rain"
+    ],
+    "minecraft:luck_of_the_sea": [
+      "Increases fishing luck"
+    ],
+    "minecraft:mending": [
+      "Collected experience",
+      "repairs the item"
+    ],
+    "minecraft:silk_touch": [
+      "Allows certain blocks to drop",
+      "themselves, such as ores"
+    ],
+    "minecraft:frost_walker": [
+      "Freezes the water below into ice"
+    ]
+  }
+}
